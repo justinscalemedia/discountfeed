@@ -7,6 +7,30 @@
       "beyondbrew": {
         "discount": 28
       }
+    },
+    "1md": {
+      "fiberfitmd": {
+        "discount": 31
+      },
+      "balancemd": {
+        "discount": 39
+      }
+    },
+    "ee": {
+      "thero": {
+        "discount": 44
+      },
+      "hairhero": {
+        "discount": 34
+      }
+    },
+    "tru": {
+      "retinolreset": {
+        "discount": 33
+      },
+      "spotcheck": {
+        "discount": 38
+      }
     }
   }
 }
