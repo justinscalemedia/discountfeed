@@ -1,9 +1,12 @@
-scale: {
-         
-         lc: { 
-                 
-         	collagenpeptides: { 
-            	"discount": 32 },
-			beyondbrew: { 
-            	"discount": 28 },
-		 }}
+{
+  "scale": {
+    "lc": {
+      "collagenpeptides": {
+        "discount": 32
+      },
+      "beyondbrew": {
+        "discount": 28
+      }
+    }
+  }
+}
